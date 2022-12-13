@@ -11,11 +11,11 @@ To install the repository on your machine follow the instructions below;
 
 -Clone this repo to your machine using the ssh key provided:-
 
-git@github.com:osman468/w3-code-challenge-flatdango-.git
+(git@github.com:osman468/w3-code-challenge-flatdango-.git)
 
 -Change directory to the code challenge folder.
 
-  cd  w3-code-challenge-flatdango-
+  (cd  w3-code-challenge-flatdango-)
 
 -Open it in a text editor of your choice.
 
